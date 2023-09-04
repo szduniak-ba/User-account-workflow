@@ -1,4 +1,4 @@
-# PICTURE
+# Activity diagram for Requirement "Create a new user profile"
 
 
 <p align="center">
