@@ -24,5 +24,5 @@ On the way when I was creating the functionality I was facing following question
 
 
 <p align="center">
-<img src="https://github.com/szduniak-ba/User-account-workflow/blob/main/Activity%20diagram%20req.A.2.jpg?raw=true" width="450">
+<img src="https://github.com/szduniak-ba/User-account-workflow/blob/main/UML%20Create%20new%20user%20profile.jpg" width="450">
 </p>
