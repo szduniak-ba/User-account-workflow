@@ -1,4 +1,4 @@
-# Activity diagram for Requirement "Create a new user profile"
+# Activity diagram UML for requirement "Create a new user profile"
 
 
 <p align="center">
